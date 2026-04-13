@@ -1,0 +1,11 @@
+certifi==2026.2.25
+charset-normalizer==3.4.7
+dotenv==0.9.9
+idna==3.11
+pillow==12.2.0
+pyTelegramBotAPI==4.33.0
+python-dotenv==1.2.2
+qrcode==8.2
+requests==2.33.1
+telebot==0.0.5
+urllib3==2.6.3
